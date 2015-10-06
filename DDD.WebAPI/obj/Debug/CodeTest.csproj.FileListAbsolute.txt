@@ -1,0 +1,137 @@
+H:\Projects\CodeTest\CodeTest\bin\CodeTest.dll.config
+H:\Projects\CodeTest\CodeTest\bin\CodeTest.dll
+H:\Projects\CodeTest\CodeTest\bin\CodeTest.pdb
+H:\Projects\CodeTest\CodeTest\bin\Antlr3.Runtime.dll
+H:\Projects\CodeTest\CodeTest\bin\Microsoft.Data.Edm.dll
+H:\Projects\CodeTest\CodeTest\bin\Microsoft.Data.OData.dll
+H:\Projects\CodeTest\CodeTest\bin\Microsoft.Web.Infrastructure.dll
+H:\Projects\CodeTest\CodeTest\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+H:\Projects\CodeTest\CodeTest\bin\Newtonsoft.Json.dll
+H:\Projects\CodeTest\CodeTest\bin\System.Spatial.dll
+H:\Projects\CodeTest\CodeTest\bin\System.Web.Helpers.dll
+H:\Projects\CodeTest\CodeTest\bin\System.Web.Http.OData.dll
+H:\Projects\CodeTest\CodeTest\bin\System.Web.Http.Tracing.dll
+H:\Projects\CodeTest\CodeTest\bin\System.Web.Mvc.dll
+H:\Projects\CodeTest\CodeTest\bin\System.Web.Optimization.dll
+H:\Projects\CodeTest\CodeTest\bin\System.Web.Providers.dll
+H:\Projects\CodeTest\CodeTest\bin\System.Web.Razor.dll
+H:\Projects\CodeTest\CodeTest\bin\System.Web.WebPages.Deployment.dll
+H:\Projects\CodeTest\CodeTest\bin\System.Web.WebPages.dll
+H:\Projects\CodeTest\CodeTest\bin\System.Web.WebPages.Razor.dll
+H:\Projects\CodeTest\CodeTest\bin\WebGrease.dll
+H:\Projects\CodeTest\CodeTest\bin\Newtonsoft.Json.xml
+H:\Projects\CodeTest\CodeTest\bin\System.Web.Helpers.xml
+H:\Projects\CodeTest\CodeTest\bin\System.Web.Mvc.xml
+H:\Projects\CodeTest\CodeTest\bin\System.Web.Razor.xml
+H:\Projects\CodeTest\CodeTest\bin\System.Web.WebPages.xml
+H:\Projects\CodeTest\CodeTest\bin\System.Web.WebPages.Deployment.xml
+H:\Projects\CodeTest\CodeTest\bin\System.Web.WebPages.Razor.xml
+H:\Projects\CodeTest\CodeTest\bin\System.Web.Http.Tracing.xml
+H:\Projects\CodeTest\CodeTest\bin\System.Web.Http.OData.xml
+H:\Projects\CodeTest\CodeTest\bin\Microsoft.Data.Edm.xml
+H:\Projects\CodeTest\CodeTest\bin\Microsoft.Data.OData.xml
+H:\Projects\CodeTest\CodeTest\bin\System.Spatial.xml
+H:\Projects\CodeTest\CodeTest\bin\de\Microsoft.Data.Edm.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\es\Microsoft.Data.Edm.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\fr\Microsoft.Data.Edm.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\it\Microsoft.Data.Edm.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\ja\Microsoft.Data.Edm.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\ko\Microsoft.Data.Edm.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\ru\Microsoft.Data.Edm.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\de\Microsoft.Data.OData.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\es\Microsoft.Data.OData.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\fr\Microsoft.Data.OData.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\it\Microsoft.Data.OData.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\ja\Microsoft.Data.OData.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\ko\Microsoft.Data.OData.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\ru\Microsoft.Data.OData.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\de\System.Spatial.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\es\System.Spatial.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\fr\System.Spatial.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\it\System.Spatial.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\ja\System.Spatial.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\ko\System.Spatial.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\ru\System.Spatial.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\zh-Hans\System.Spatial.resources.dll
+H:\Projects\CodeTest\CodeTest\bin\zh-Hant\System.Spatial.resources.dll
+H:\Projects\CodeTest\CodeTest\obj\Debug\CodeTest.dll
+H:\Projects\CodeTest\CodeTest\obj\Debug\CodeTest.pdb
+H:\Projects\CodeTest\CodeTest\obj\Debug\CodeTest.csprojResolveAssemblyReference.cache
+H:\Projects\CodeTest\CodeTest\bin\CodeTest.Domain.dll
+H:\Projects\CodeTest\CodeTest\bin\CodeTest.Persistence.dll
+H:\Projects\CodeTest\CodeTest\bin\Infrastructure.dll
+H:\Projects\CodeTest\CodeTest\bin\CodeTest.Domain.pdb
+H:\Projects\CodeTest\CodeTest\bin\CodeTest.Persistence.pdb
+H:\Projects\CodeTest\CodeTest\bin\Infrastructure.pdb
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\CodeTest.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\CodeTest.pdb
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\Antlr3.Runtime.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\CodeTest.Domain.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\CodeTest.Persistence.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\Infrastructure.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\Microsoft.Data.Edm.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\Microsoft.Data.OData.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\Newtonsoft.Json.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\System.Spatial.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\System.Web.Helpers.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\System.Web.Http.OData.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\System.Web.Http.Tracing.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\System.Web.Mvc.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\System.Web.Optimization.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\System.Web.Providers.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\System.Web.Razor.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\System.Web.WebPages.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\System.Web.WebPages.Razor.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\WebGrease.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\CodeTest.Domain.pdb
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\CodeTest.Persistence.pdb
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\Infrastructure.pdb
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\Newtonsoft.Json.xml
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\System.Web.Helpers.xml
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\System.Web.Mvc.xml
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\System.Web.Razor.xml
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\System.Web.WebPages.xml
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\System.Web.WebPages.Razor.xml
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\System.Web.Http.Tracing.xml
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\System.Web.Http.OData.xml
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\Microsoft.Data.Edm.xml
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\Microsoft.Data.OData.xml
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\System.Spatial.xml
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\de\Microsoft.Data.OData.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\es\Microsoft.Data.OData.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\it\Microsoft.Data.OData.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\de\System.Spatial.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\es\System.Spatial.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\fr\System.Spatial.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\it\System.Spatial.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\ja\System.Spatial.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\ko\System.Spatial.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\ru\System.Spatial.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\zh-Hans\System.Spatial.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\bin\zh-Hant\System.Spatial.resources.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\obj\Debug\CodeTest.csprojResolveAssemblyReference.cache
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\obj\Debug\CodeTest.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest\obj\Debug\CodeTest.pdb

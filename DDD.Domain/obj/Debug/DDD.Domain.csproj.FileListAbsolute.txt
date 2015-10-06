@@ -1,0 +1,14 @@
+D:\Projects\ASP.NET MVC\DDD\DDD.Domain\bin\Debug\CodeTest.Domain.dll
+D:\Projects\ASP.NET MVC\DDD\DDD.Domain\bin\Debug\CodeTest.Domain.pdb
+D:\Projects\ASP.NET MVC\DDD\DDD.Domain\bin\Debug\Infrastructure.dll
+D:\Projects\ASP.NET MVC\DDD\DDD.Domain\bin\Debug\Infrastructure.pdb
+D:\Projects\ASP.NET MVC\DDD\DDD.Domain\obj\Debug\DDD.Domain.csprojResolveAssemblyReference.cache
+D:\Projects\ASP.NET MVC\DDD\DDD.Domain\obj\Debug\CodeTest.Domain.dll
+D:\Projects\ASP.NET MVC\DDD\DDD.Domain\obj\Debug\CodeTest.Domain.pdb
+C:\Application Projects\MVCDemo\DDD.Domain\bin\Debug\CodeTest.Domain.dll
+C:\Application Projects\MVCDemo\DDD.Domain\bin\Debug\CodeTest.Domain.pdb
+C:\Application Projects\MVCDemo\DDD.Domain\bin\Debug\Infrastructure.dll
+C:\Application Projects\MVCDemo\DDD.Domain\bin\Debug\Infrastructure.pdb
+C:\Application Projects\MVCDemo\DDD.Domain\obj\Debug\DDD.Domain.csprojResolveAssemblyReference.cache
+C:\Application Projects\MVCDemo\DDD.Domain\obj\Debug\CodeTest.Domain.dll
+C:\Application Projects\MVCDemo\DDD.Domain\obj\Debug\CodeTest.Domain.pdb

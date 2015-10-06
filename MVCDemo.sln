@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DDDWeb", "http://localhost:9940", "{F47AE105-E69E-447A-88CD-6F6A2314E1B5}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_9940"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Projects\ASP.NET MVC\DDD\DDDWeb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_9940\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_9940"
+		Release.AspNetCompiler.PhysicalPath = "D:\Projects\ASP.NET MVC\DDD\DDDWeb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_9940\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "D:\Projects\ASP.NET MVC\DDD\DDDWeb\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD.Domain", "DDD.Domain\DDD.Domain.csproj", "{6C4D5D0A-A1F6-407A-B05F-7D3B6779E34A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD.Persistence", "DDD.Persistence\DDD.Persistence.csproj", "{3A6B9577-B2A2-4312-95F6-4E1D17C54DE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD.WebAPI", "DDD.WebAPI\DDD.WebAPI.csproj", "{A6DD2126-D437-4517-84CF-59F4959D5CEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{C2DF293D-CDDA-4EDE-8F06-CF6A704ED1C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F47AE105-E69E-447A-88CD-6F6A2314E1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47AE105-E69E-447A-88CD-6F6A2314E1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47AE105-E69E-447A-88CD-6F6A2314E1B5}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47AE105-E69E-447A-88CD-6F6A2314E1B5}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{6C4D5D0A-A1F6-407A-B05F-7D3B6779E34A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C4D5D0A-A1F6-407A-B05F-7D3B6779E34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C4D5D0A-A1F6-407A-B05F-7D3B6779E34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C4D5D0A-A1F6-407A-B05F-7D3B6779E34A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A6B9577-B2A2-4312-95F6-4E1D17C54DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6B9577-B2A2-4312-95F6-4E1D17C54DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6B9577-B2A2-4312-95F6-4E1D17C54DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6B9577-B2A2-4312-95F6-4E1D17C54DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6DD2126-D437-4517-84CF-59F4959D5CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6DD2126-D437-4517-84CF-59F4959D5CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6DD2126-D437-4517-84CF-59F4959D5CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6DD2126-D437-4517-84CF-59F4959D5CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2DF293D-CDDA-4EDE-8F06-CF6A704ED1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2DF293D-CDDA-4EDE-8F06-CF6A704ED1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2DF293D-CDDA-4EDE-8F06-CF6A704ED1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2DF293D-CDDA-4EDE-8F06-CF6A704ED1C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

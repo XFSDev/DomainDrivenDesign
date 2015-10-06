@@ -1,0 +1,20 @@
+H:\Projects\CodeTest\Infrastructure\bin\Debug\Infrastructure.dll
+H:\Projects\CodeTest\Infrastructure\bin\Debug\Infrastructure.pdb
+H:\Projects\CodeTest\Infrastructure\obj\Debug\Infrastructure.dll
+H:\Projects\CodeTest\Infrastructure\obj\Debug\Infrastructure.pdb
+H:\Projects\CodeTest\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\Projects\ASP.NET MVC\CodeTest\Infrastructure\bin\Debug\Infrastructure.dll
+D:\Projects\ASP.NET MVC\CodeTest\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\Projects\ASP.NET MVC\CodeTest\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\Projects\ASP.NET MVC\CodeTest\Infrastructure\obj\Debug\Infrastructure.dll
+D:\Projects\ASP.NET MVC\CodeTest\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\Projects\ASP.NET MVC\DDD\Infrastructure\bin\Debug\Infrastructure.dll
+D:\Projects\ASP.NET MVC\DDD\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\Projects\ASP.NET MVC\DDD\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\Projects\ASP.NET MVC\DDD\Infrastructure\obj\Debug\Infrastructure.dll
+D:\Projects\ASP.NET MVC\DDD\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Application Projects\MVCDemo\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Application Projects\MVCDemo\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Application Projects\MVCDemo\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+C:\Application Projects\MVCDemo\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Application Projects\MVCDemo\Infrastructure\obj\Debug\Infrastructure.pdb

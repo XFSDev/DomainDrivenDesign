@@ -1,0 +1,14 @@
+H:\Projects\CodeTest\CodeTest.Domain\bin\Debug\CodeTest.Domain.dll
+H:\Projects\CodeTest\CodeTest.Domain\bin\Debug\CodeTest.Domain.pdb
+H:\Projects\CodeTest\CodeTest.Domain\bin\Debug\Infrastructure.dll
+H:\Projects\CodeTest\CodeTest.Domain\bin\Debug\Infrastructure.pdb
+H:\Projects\CodeTest\CodeTest.Domain\obj\Debug\CodeTest.Domain.csprojResolveAssemblyReference.cache
+H:\Projects\CodeTest\CodeTest.Domain\obj\Debug\CodeTest.Domain.dll
+H:\Projects\CodeTest\CodeTest.Domain\obj\Debug\CodeTest.Domain.pdb
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest.Domain\bin\Debug\CodeTest.Domain.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest.Domain\bin\Debug\CodeTest.Domain.pdb
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest.Domain\bin\Debug\Infrastructure.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest.Domain\bin\Debug\Infrastructure.pdb
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest.Domain\obj\Debug\CodeTest.Domain.csprojResolveAssemblyReference.cache
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest.Domain\obj\Debug\CodeTest.Domain.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest.Domain\obj\Debug\CodeTest.Domain.pdb

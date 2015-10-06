@@ -1,0 +1,18 @@
+H:\Projects\CodeTest\CodeTest.Persistence\bin\Debug\CodeTest.Persistence.dll
+H:\Projects\CodeTest\CodeTest.Persistence\bin\Debug\CodeTest.Persistence.pdb
+H:\Projects\CodeTest\CodeTest.Persistence\bin\Debug\CodeTest.Domain.dll
+H:\Projects\CodeTest\CodeTest.Persistence\bin\Debug\Infrastructure.dll
+H:\Projects\CodeTest\CodeTest.Persistence\bin\Debug\CodeTest.Domain.pdb
+H:\Projects\CodeTest\CodeTest.Persistence\bin\Debug\Infrastructure.pdb
+H:\Projects\CodeTest\CodeTest.Persistence\obj\Debug\CodeTest.Persistence.csprojResolveAssemblyReference.cache
+H:\Projects\CodeTest\CodeTest.Persistence\obj\Debug\CodeTest.Persistence.dll
+H:\Projects\CodeTest\CodeTest.Persistence\obj\Debug\CodeTest.Persistence.pdb
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest.Persistence\bin\Debug\CodeTest.Persistence.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest.Persistence\bin\Debug\CodeTest.Persistence.pdb
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest.Persistence\bin\Debug\CodeTest.Domain.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest.Persistence\bin\Debug\Infrastructure.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest.Persistence\bin\Debug\CodeTest.Domain.pdb
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest.Persistence\bin\Debug\Infrastructure.pdb
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest.Persistence\obj\Debug\CodeTest.Persistence.csprojResolveAssemblyReference.cache
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest.Persistence\obj\Debug\CodeTest.Persistence.dll
+D:\Projects\ASP.NET MVC\CodeTest\CodeTest.Persistence\obj\Debug\CodeTest.Persistence.pdb
